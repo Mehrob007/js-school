@@ -52,7 +52,7 @@
 //         res++
 //     }
 // }
-//1
+//10
 // console.log(res);
 // let str = "hello";
 // if (str.length >= 2) {
